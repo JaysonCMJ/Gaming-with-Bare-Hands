@@ -1,14 +1,14 @@
 # Gaming-with-Bare-Hands
 
 <h2>Description</h2>
-This project was developed as part of my time in university, this software application allows users to control games with nothing but hand gestures. By using OpenCV. 
+This project was developed as part of my time in university, this software application allows users to control games with nothing but hand gestures. QT was used for its Graphics Design capabilities while Python was used for it's machine learning algorithms. 
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Unity</b> 
-- <b>C#</b>
+- <b>QT</b> 
+- <b>Python</b>
 
 <h2>Demo Screenshots:</h2>
 
